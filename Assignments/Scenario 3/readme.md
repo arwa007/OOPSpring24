@@ -14,7 +14,9 @@ More details about the functions is given below:<br>
 • Default Constructor for the ChessBoard class should initialize the 2D array of chess pieces to an initial
 game state (also shown below).<br>
 • The display() method should generate an output like this:
-![image](https://github.com/arwa007/OOPSpring24/assets/142319755/35c2361d-5342-4650-94e1-86cd9d0fa558)<br>
+![image](https://github.com/arwa007/OOPSpring24/assets/142319755/0541175e-6741-47c7-a02e-81be34dd94c4)
+
+<br>
 White pieces can be represented by small alphabet while black pieces can be capital alphabets.<br>
 Note: R: Rook, N: Knight, B: Bishop, Q: Queen, K: King, P: Pawn<br><br>
 • The bool movePiece(string source, string destination) method is used to move the chess piece from
@@ -31,5 +33,7 @@ Meanwhile, during the first move only, a pawn has two possible moves: it can mov
 steps, only if there is nothing in its path.
 
 **OUTPUT**
-![image](https://github.com/arwa007/OOPSpring24/assets/142319755/0488d35c-71e7-4758-8cfb-9d87f234e4bd)
+<img width="960" alt="image" src="https://github.com/arwa007/OOPSpring24/assets/142319755/97cc330f-c900-48bd-a30a-cbf048f61ff4">
+
+
 
