@@ -17,6 +17,8 @@ public:
 validateString(string input){
     this->input = input;
 }
+
+//If you don't make `isValid()` constant, it suggests the function might change the object's state. But since `isValid()` only checks validity without altering the object's state, it's best to make it constant for safety and clarity.
 bool isValid() const{
 
     for (char c : input){
