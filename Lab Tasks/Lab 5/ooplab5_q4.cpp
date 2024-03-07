@@ -1,7 +1,7 @@
 /*
 *Name: Arwa Feroze
 *ID: 23k-0022
-* OOP LAB 5 Q$ 
+*LAB 5 Q4 
 */
 #include <iostream>
 #include <string>
